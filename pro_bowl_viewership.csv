@@ -1,0 +1,6 @@
+year,format,day,network,venue,avg_viewers_millions,yoy_pct,trend_fit_millions,residual_millions,source_note
+2022,Traditional tackle game,Sunday,ABC/ESPN,Allegiant Stadium (Las Vegas),6.7,,6.85,-0.15,"Lowest since 2006 (Front Office Sports)"
+2023,Pro Bowl Games (flag + skills),Sunday,ABC/ESPN,Allegiant Stadium (Las Vegas),6.3,-6.0,6.20,0.10,"Front Office Sports"
+2024,Pro Bowl Games (flag + skills),Sunday,ABC/ESPN,Camping World Stadium (Orlando),5.8,-7.9,5.55,0.25,"Front Office Sports"
+2025,Pro Bowl Games (flag + skills),Sunday,ABC/ESPN,Camping World Stadium (Orlando),4.7,-19.0,4.90,-0.20,"Front Office Sports; ~18% in some reports"
+2026,Pro Bowl Games (flag + skills),Tuesday,ESPN,Moscone Center (San Francisco),1.919,-59.2,4.25,-2.33,"Awful Announcing; 2.0M in some outlets; trend_fit is a 2022-25 OLS extrapolation"
